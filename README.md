@@ -28,7 +28,7 @@ A Python script to manage various tasks on a Linux system, including package man
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/linux-tools-script.git
+    git clone https://github.com/LouSkull/UbuntuTool.git
     cd linux-tools-script
     ```
 
@@ -43,7 +43,7 @@ A Python script to manage various tasks on a Linux system, including package man
 
 Run the script:
 ```bash
-python main.py
+python3 main.py
 ```
 Follow the on-screen instructions to use the various tools provided.
 # Menu Options
