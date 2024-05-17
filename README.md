@@ -44,3 +44,34 @@ A Python script to manage various tasks on a Linux system, including package man
 Run the script:
 ```bash
 python main.py
+```
+Follow the on-screen instructions to use the various tools provided.
+# Menu Options
+[+] Main Menu:
+[+] 1. Install .deb Package
+[+] 2. Extract tar.gz File (In Development)
+[+] 3. List Installed Packages
+[+] 4. Remove Application
+[+] 5. Disk Usage and File Management
+[+] 6. Development Tools
+[+] 7. Network Tools
+[+] 8. Exit
+
+[+] Disk Usage and File Management:
+[+] 1. Get Disk Usage
+[+] 2. List Large Files
+[+] 3. Clean Temporary Files
+[+] 4. Back to Main Menu
+
+[+] Development Tools:
+[+] 1. Install Git
+[+] 2. Install Vim
+[+] 3. Install GCC
+[+] 4. Back to Main Menu
+
+[+] Network Tools:
+[+] 1. Check IP Address
+[+] 2. Ping Host
+[+] 3. Check Network Status
+[+] 4. Back to Main Menu
+
